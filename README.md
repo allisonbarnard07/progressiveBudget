@@ -15,7 +15,7 @@ Installation:  Node.js, MongoDB
 
 ### __Image__
 Appe:
-![Budget app](progressiveBudget.png)
+![Budget app](progressiveBudget.PNG)
 
 ### __Contributing__
 Pull requests are welcome.
